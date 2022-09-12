@@ -1,0 +1,14 @@
+C:\00000000\libdocproc-sharp_DCC_VS2010_v20.9.0.0\SSProCapiDllRelease\Errors\DeviceList.xml.gz
+C:\00000000\libdocproc-sharp_DCC_VS2010_v20.9.0.0\SSProCapiDllRelease\Errors\ErrorList.xml.gz
+C:\00000000\libdocproc-sharp_DCC_VS2010_v20.9.0.0\SSProCapiDllRelease\Errors\FuncAreaList.xml.gz
+C:\00000000\libdocproc-sharp_DCC_VS2010_v20.9.0.0\SSProCapiDllRelease\Errors\LongMessages.xml.gz
+C:\00000000\libdocproc-sharp_DCC_VS2010_v20.9.0.0\SSProCapiDllRelease\Errors\Messages.xml.gz
+C:\00000000\libdocproc-sharp_DCC_VS2010_v20.9.0.0\SSProCapiDllRelease\Errors\ErrorListGeneric.xml.gz
+C:\00000000\libdocproc-sharp_DCC_VS2010_v20.9.0.0\SSProCapiDllRelease\SimpleExerciser.exe
+C:\00000000\libdocproc-sharp_DCC_VS2010_v20.9.0.0\SSProCapiDllRelease\SimpleExerciser.pdb
+C:\00000000\libdocproc-sharp_DCC_VS2010_v20.9.0.0\SimpleExerciser\obj\Release\SimpleExerciser.csprojResolveAssemblyReference.cache
+C:\00000000\libdocproc-sharp_DCC_VS2010_v20.9.0.0\SimpleExerciser\obj\Release\SimpleExerciser.frmMain.resources
+C:\00000000\libdocproc-sharp_DCC_VS2010_v20.9.0.0\SimpleExerciser\obj\Release\SimpleExerciser.Properties.Resources.resources
+C:\00000000\libdocproc-sharp_DCC_VS2010_v20.9.0.0\SimpleExerciser\obj\Release\SimpleExerciser.csproj.GenerateResource.Cache
+C:\00000000\libdocproc-sharp_DCC_VS2010_v20.9.0.0\SimpleExerciser\obj\Release\SimpleExerciser.exe
+C:\00000000\libdocproc-sharp_DCC_VS2010_v20.9.0.0\SimpleExerciser\obj\Release\SimpleExerciser.pdb
